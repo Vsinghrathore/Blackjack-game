@@ -26,3 +26,8 @@ button{
  border-radius: 2px;
  margin: 2px;
 }
+.box{
+    display: flex;
+     align-items: center;
+     justify-content: center;
+}
